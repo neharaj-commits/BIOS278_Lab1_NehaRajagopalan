@@ -1,0 +1,8 @@
+{
+    "Acknowledgements" : "Snakebids Development Team",
+    "Authors": ["Peters Van Dyken", "Ali Khan"],
+    "DataSetType": "raw",
+    "Name": "Snakebids Test T1W Dataset (empty files)",
+    "BIDSVersion": "1.4.1"
+
+}
